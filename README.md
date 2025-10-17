@@ -1,4 +1,4 @@
-<h1 align="center">👋 Yo, I'm Shubham Sharma ⚡</h1>
+<h1 align="center">👋 Yo, I'm Shubhfront ⚡</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21kNjQ0eGR2MWQ0eDd6Njlqa3pkd3Q2bHZtdW8zNHU1bG5mNGJ1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300"/>
@@ -78,8 +78,8 @@ Check out my DSA Practice Repository 👇
 
 <p align="center">
   <a href="https://github.com/shubhfront"><img src="https://img.shields.io/badge/GitHub-shubhfront-181717?style=for-the-badge&logo=github"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-Shubhfront%230001-5865F2?style=for-the-badge&logo=discord"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Soon-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/shubham-sharma-9978a4386/"><img src="https://img.shields.io/badge/LinkedIn-Shubham%20Sharma-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.instagram.com/shubhfront/"><img src="https://img.shields.io/badge/Instagram-@shubhfront-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
