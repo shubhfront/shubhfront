@@ -52,18 +52,6 @@ Check out my DSA Practice Repository 👇
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhfront&show_icons=true&theme=tokyonight" alt="GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhfront&theme=tokyonight" alt="GitHub streak" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhfront&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
-</p>
-
----
 
 ## 🐾 Fun Side of Me
 
